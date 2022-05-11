@@ -1,0 +1,13 @@
+plots:
+  acc:
+    x: epoch
+    y: acc
+    data:
+    - train.csv
+    - val.csv
+  loss:
+    x: epoch
+    y: loss
+    data:
+    - train.csv
+    - val.csv
